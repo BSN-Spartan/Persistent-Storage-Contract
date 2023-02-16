@@ -77,4 +77,4 @@ Retrieve the value of the data by its corresponding key.
 
 ## License
 
-Spartan-NFT Contracts is released under the [Spartan License](https://github.com/BSN-Spartan/NFT/blob/main/LICENSE).
+Spartan-NFT Contracts is released under the [Spartan License](https://github.com/BSN-Spartan/Beginner-Level-Contracts/blob/main/Spartan%20License.md).
