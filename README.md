@@ -22,7 +22,7 @@ Usually, the use of contracts needs to be secured. In this case, Openzeppelin's 
 
 ## Usage
 
-Get the smart contract from [GitHub](https://github.com/BSN-Spartan/NFT-Fractional-Contract/tree/main/contracts), or get the source code by command:
+Get the smart contract from [GitHub](https://github.com/BSN-Spartan/Persistent-Storage-Contract/tree/main/storage), or get the source code by command:
 
 ```
 $ git clone https://github.com/BSN-Spartan/Persistent-Storage-Contract.git
